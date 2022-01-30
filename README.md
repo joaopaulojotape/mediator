@@ -1,1 +1,1 @@
-# mediator_
+# Padrões de projeto mediator
